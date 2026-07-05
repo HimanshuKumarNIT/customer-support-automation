@@ -1,0 +1,62 @@
+[
+  {
+    "id": "T-1001",
+    "subject": "Charged twice for my order",
+    "message": "Hi, I just noticed my card was charged twice for order #58291. Can you please refund the extra charge? This is really frustrating."
+  },
+  {
+    "id": "T-1002",
+    "subject": "Where is my package?",
+    "message": "I ordered a jacket 12 days ago and the tracking still says 'label created'. It was supposed to arrive last week. Can someone check what's going on?"
+  },
+  {
+    "id": "T-1003",
+    "subject": "Can't log into my account",
+    "message": "I've tried resetting my password three times but I never get the email. My account is now locked and I need to place an urgent order today."
+  },
+  {
+    "id": "T-1004",
+    "subject": "App crashes every time I open it",
+    "message": "Ever since the last update, the app crashes immediately on launch. I'm on an iPhone 14, iOS 17.5. I've tried restarting my phone already."
+  },
+  {
+    "id": "T-1005",
+    "subject": "Want to return a shirt",
+    "message": "I bought the wrong size shirt last week, order #61042. It's unused and still has tags. How do I exchange it for a large?"
+  },
+  {
+    "id": "T-1006",
+    "subject": "Refund request",
+    "message": "I'd like to cancel my subscription and get a refund. I only signed up 3 days ago and haven't really used it."
+  },
+  {
+    "id": "T-1007",
+    "subject": "This is unacceptable, I want a manager",
+    "message": "This is the THIRD time I'm contacting you about my missing refund of $340 from order #59102. It's been over a month. I am extremely upset and considering legal action if this isn't resolved today."
+  },
+  {
+    "id": "T-1008",
+    "subject": "Error code when checking out",
+    "message": "I keep getting ERR_5023 when I try to pay with my credit card. I've tried twice and both times my bank shows a pending charge that then disappears."
+  },
+  {
+    "id": "T-1009",
+    "subject": "Wrong item delivered",
+    "message": "I ordered a blue backpack but received a red one instead. Order number is #60355. Can you send the correct one or refund me?"
+  },
+  {
+    "id": "T-1010",
+    "subject": "2FA code not arriving",
+    "message": "I'm trying to log in but the SMS verification code never arrives. I've requested it 5 times now. My phone number on file should be correct."
+  },
+  {
+    "id": "T-1011",
+    "subject": "General question about your products",
+    "message": "Do your jackets come in petite sizes? I couldn't find that info on the product page."
+  },
+  {
+    "id": "T-1012",
+    "subject": "Package marked delivered but not received",
+    "message": "The tracking says my order was delivered yesterday at 2pm but I never got anything, and I was home all day. Order #62210."
+  }
+]
